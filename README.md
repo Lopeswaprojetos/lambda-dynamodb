@@ -1,3 +1,11 @@
+
+
+
+
+![Captura de tela 2024-03-31 155311](https://github.com/Lopeswaprojetos/lambda-dynamodb/assets/161225187/3c6f0345-b4e2-46a6-b4f7-6a83a05320fc)
+
+
+
 ## Projeto Lambda DynamoDB
 
 
