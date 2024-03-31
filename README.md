@@ -33,12 +33,11 @@ terraform destroy
 
 ## Estrutura do Projeto
 
-.
-├── lambda_function/
-│   └── processamento_pedidos.py       # Código Python da função Lambda
-├── main.tf                             # Configuração principal do Terraform
-├── variables.tf                         # Definição de variáveis do Terraform
-└── README.md                            # Este arquivo README
+- lambda_function/
+   - processamento_pedidos.py       
+- main.tf                             
+- variables.tf                         
+- README.md                            
 
 ## Contribuição
 
